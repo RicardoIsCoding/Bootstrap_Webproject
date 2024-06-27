@@ -1,0 +1,29 @@
+{
+    "main_color": ["green", "blue"],
+    "websites": [
+        {
+            "name": "index",
+            "title": "start-page",
+            "h1_headline": "Brad Pitt Style and Fashion Evolution",
+            "h1_text": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" ,
+            "list_data": [
+                {
+                    "headline": "headline",
+                    "text": "leel lool 1"
+                }
+            ]
+        },
+        {
+            "name": "Impressum",
+            "title": "impressum-page",
+            "h1_headline": "Hier finden sie Impressum Infos",
+            "h1_text": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" ,
+            "list_data": [
+                {
+                    "headline": "headline",
+                    "text": "leel lool 2"
+                }
+            ]
+        }
+    ]
+  }
