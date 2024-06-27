@@ -42,6 +42,10 @@
                 {
                     "headline": "The first card",
                     "text": "In recent years, JavaScript has undergone significant improvements with the introduction of ECMAScript (ES) standards. ES6, also known as ECMAScript 2015, brought many new features to the language, including arrow functions, classes, modules, and template literals, among others. These enhancements have made JavaScript more powerful and expressive, enabling developers to write cleaner and more maintainable code."
+                },
+                {
+                    "headline": "The second card",
+                    "text": "Overall, JavaScript's flexibility, wide adoption, and continuous evolution make it an indispensable tool for developers looking to create interactive and efficient web applications. Whether you're building simple websites or complex web applications, JavaScript offers the tools and capabilities to bring your ideas to life."
                 }
             ]
         }

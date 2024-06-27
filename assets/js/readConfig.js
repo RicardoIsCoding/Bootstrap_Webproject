@@ -52,8 +52,6 @@ function createContainerHTML(listData) {
     `;
     var cardHTML = '';
 
-    const colNumber = Math.min(Math.round(12 / listData.) , 4);
-
     listData.forEach(listDataBlock => {
         cardHTML += createBootstrapCard(listDataBlock.headline, listDataBlock.text);
     });
@@ -61,9 +59,9 @@ function createContainerHTML(listData) {
     return containerHTML.replace('#CARDS', cardHTML);
 }
 
-function createBootstrapCard(headline, text, colNumber) {
+function createBootstrapCard(headline, text) {
     return `
-    <div class"col-${colNumber}">
+    <div class="col-4">
         <div class="card">
             <img src="" class="card-img-top" alt="">
             <div class="card-body">
